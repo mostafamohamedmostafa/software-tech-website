@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/software-tech-website/static/css/main.8adb9562.css",
-    "main.js": "/software-tech-website/static/js/main.cd0e89b1.js",
+    "main.js": "/software-tech-website/static/js/main.b63ef47b.js",
     "static/js/787.84d13e91.chunk.js": "/software-tech-website/static/js/787.84d13e91.chunk.js",
     "static/media/Hero-Software-6.jpg": "/software-tech-website/static/media/Hero-Software-6.c99f20885941ed9dc8e1.jpg",
     "static/media/Softwareproject1.jpg": "/software-tech-website/static/media/Softwareproject1.de978755474fe3da9b23.jpg",
@@ -40,11 +40,11 @@
     "static/media/Cleancode.png": "/software-tech-website/static/media/Cleancode.33016afec6c77c753335.png",
     "index.html": "/software-tech-website/index.html",
     "main.8adb9562.css.map": "/software-tech-website/static/css/main.8adb9562.css.map",
-    "main.cd0e89b1.js.map": "/software-tech-website/static/js/main.cd0e89b1.js.map",
+    "main.b63ef47b.js.map": "/software-tech-website/static/js/main.b63ef47b.js.map",
     "787.84d13e91.chunk.js.map": "/software-tech-website/static/js/787.84d13e91.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8adb9562.css",
-    "static/js/main.cd0e89b1.js"
+    "static/js/main.b63ef47b.js"
   ]
 }
