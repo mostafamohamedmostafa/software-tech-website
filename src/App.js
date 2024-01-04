@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <Nav/>
       <Routes>
-        <Route path="/" element={<Homepage />} />
+        <Route path="https://mostafamohamedmostafa.github.io/software-tech-website/" element={<Homepage />} />
         <Route path="Aboutus" element={<Aboutusspage />} />
         <Route path="Webtech" element={<WebTechpage />} />
         <Route path="Mobiletech" element={<MobileTechpage />} />

@@ -16,7 +16,7 @@ function Nav() {
                         <div className="collapse navbar-collapse " id="navbarNav">
                             <ul className="navbar-nav ms-auto p-2">
                                 <li className="nav-item ">
-                                    <Link className="nav-link  " aria-current="page" to="/">Home</Link>
+                                    <Link className="nav-link  " aria-current="page" to="https://mostafamohamedmostafa.github.io/software-tech-website/">Home</Link>
                                 </li>
                                 <li className="nav-item">
                                     <Link className="nav-link" to="Aboutus">About Us</Link>
