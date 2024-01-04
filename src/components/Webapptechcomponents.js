@@ -12,16 +12,16 @@ function IntroWebtechapp() {
             <div className="IntroWebtechapp ">
 
                 <div className="text-center">
-                    <h1>Web Application Development</h1>
-                    <h4>When we do web application development, we believe they should be beautiful, functional, easy to use and responsive.</h4>
+                    <h1 data-aos="fade-up">Web Application Development</h1>
+                    <h4 data-aos="fade-up">When we do web application development, we believe they should be beautiful, functional, easy to use and responsive.</h4>
                 </div>
                 <div className="card-group">
-                    <div className="card">
+                    <div className="card" data-aos="fade-up">
                         <img src={webtech1} className="card-img-top" alt="..." />
 
 
                     </div>
-                    <div className="card">
+                    <div className="card" data-aos="fade-up">
                         <div className="card-body">
                             <p className="card-text">Nam ut dolor ullamcorper, imperdiet nunc vitae, pellentesque purus. Nulla ut turpis sed leo ornare consectetur. Duis vulputate eu risus eu sollicitudin. Mauris nisi lectus, pharetra eget leo id, hendrerit ultricies magna. Duis bibendum quam in elit accumsan!</p>
                             <p className="card-text">Nam ut dolor ullamcorper, imperdiet nunc vitae, pellentesque purus. Nulla ut turpis sed leo ornare consectetur. Duis vulputate eu risus eu sollicitudin. Mauris nisi lectus, pharetra eget leo id, hendrerit ultricies magna. Duis bibendum quam in elit accumsan!</p>
@@ -49,7 +49,7 @@ function Technologies() {
 
                 <div className="card-group">
 
-                    <div className="card">
+                    <div className="card" data-aos="fade-up">
                         <div className="card-body">
                             <h3 className="card-text">Front-end:</h3>
                             <p className="card-text">AngularJS, Twitter Boostrap, HTML5/CSS3</p>
@@ -72,7 +72,7 @@ function Technologies() {
                     </div>
 
 
-                    <div className="card">
+                    <div className="card" data-aos="fade-up">
                         <img src={webtech2} className="card-img-top" alt="..." />
 
 
@@ -93,7 +93,7 @@ function Benefits() {
 
         <section className="container-fluid">
             <div className="Benefits  ">
-                <h3 className="text-center">Benefits of web application development with us</h3>
+                <h3 data-aos="fade-up" className="text-center">Benefits of web application development with us</h3>
 
 
                 <div className="row  row-cols-md-2 g-4 ">
@@ -104,7 +104,7 @@ function Benefits() {
                         return (
 
                             <div className="col" key={index}>
-                                <div className="card h-100 ">
+                                <div className="card h-100 " data-aos="fade-up">
 
                                     <div className="row g-0">
                                         <div className="col-md-4">
@@ -152,7 +152,7 @@ function Webtechcontact() {
 
 
 
-                    <div className="card">
+                    <div className="card" data-aos="fade-up">
                         <img src={handshake1} className="card-img-top" alt="..." />
 
 
@@ -161,7 +161,7 @@ function Webtechcontact() {
 
 
 
-                    <div className="card">
+                    <div className="card" data-aos="fade-up">
                         <div className="card-body">
                             <p className="card-text">
                                 Dolor ullamcorper, imperdiet nunc vitae, pellentesque purus. Nulla ut turpis sed leo ornare consectetur. Duis vulputate eu risus eu sollicitudin. Mauris nisi lectus, pharetra eget leo id, hendrerit ultricies magna. Duis bibendum quam in elit accumsan, quis maximus urna venenatis. Mauris eget dapibus ipsum.</p>

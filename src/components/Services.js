@@ -10,16 +10,16 @@ function Services() {
 
                 <div className="card-group">
 
-                {Services_data.map((Services_dataImported, index) => {
+                    {Services_data.map((Services_dataImported, index) => {
                         return (
 
-                            <div className="card" key={index} >
-                            <img src={Services_dataImported.img} className="card-img-top" alt={Services_dataImported.alt} />
-                            <div className="card-body">
-                                <h3 className="card-title">{Services_dataImported.title} </h3>
+                            <div className="card" data-aos="fade-up" key={index} >
+                                <img src={Services_dataImported.img} className="card-img-top" alt={Services_dataImported.alt} />
+                                <div className="card-body">
+                                    <h3 className="card-title">{Services_dataImported.title} </h3>
+                                </div>
+
                             </div>
-    
-                        </div>
                         )
                     })}
 

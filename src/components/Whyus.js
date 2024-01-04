@@ -7,8 +7,8 @@ function Whyus() {
         <section>
             <div className="Whyus container-fluid">
                 <div className="container">
-                    <h1>How can we help you?</h1>
-                    <h3>Our job is nisi lectus, pharetra eget leo id, hendrerit ultricies magna. Duis bibendum quam in elit accumsan, quis maximus urna venenatis.</h3>
+                    <h1 data-aos="fade-up">How can we help you?</h1>
+                    <h3 data-aos="fade-up">Our job is nisi lectus, pharetra eget leo id, hendrerit ultricies magna. Duis bibendum quam in elit accumsan, quis maximus urna venenatis.</h3>
 
                     <div className="row  row-cols-md-3 g-4 ">
 
@@ -18,7 +18,7 @@ function Whyus() {
                             return (
 
                                 <div className="col" key={index}>
-                                    <div className="card h-100 ">
+                                    <div className="card h-100 " data-aos="fade-up">
 
                                         <div className="row g-0">
                                             <div className="col-md-4">

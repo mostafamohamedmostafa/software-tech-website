@@ -18,7 +18,7 @@ function Technologiespage() {
                     { Technologiespage_data.map(( Technologiespage_data_Imported, index) => {
                         return (
 
-                            <div className="col " key={index}>
+                            <div className="col  " data-aos="fade-up" key={index}>
                                 <div className="card h-100 ">
 
                                     <img src= {Technologiespage_data_Imported.img} className="img-fluid rounded-start " alt={ Technologiespage_data_Imported.alt} />

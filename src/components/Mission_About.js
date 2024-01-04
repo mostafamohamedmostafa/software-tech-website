@@ -7,12 +7,12 @@ function Mission_About() {
 
                 <div className="card-group">
 
-                    <div className="card">
+                    <div className="card" data-aos="fade-up">
                         <img src={handshake2} className="card-img-top" alt="..." />
 
 
                     </div>
-                    <div className="card">
+                    <div className="card" data-aos="fade-up">
                         <div className="card-body">
                             <h3 className="card-title">Mission</h3>
                             <p className="card-text">Nulla laoreet in elit non porttitor. Vestibulum iaculis aliquam blandit. Vivamus posuere lorem ut sapien mollis aliquam. Vestibulum fermentum dapibus tellus, id dignissim turpis fermentum id.</p>
