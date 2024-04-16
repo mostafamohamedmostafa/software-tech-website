@@ -15,6 +15,7 @@ function Homepage() {
            <Services/>
            <Whyus/>
            <Projects/>
+           <Contactus/>
             
             </div>
         </section>

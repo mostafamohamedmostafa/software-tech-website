@@ -36,12 +36,7 @@ function Nav() {
                                 <li className="nav-item">
                                     <Link className="nav-link "  to="Techused">Technologies</Link>
                                 </li>
-                                <li className="nav-item">
-                                    <Link className="nav-link " to="" >Showcase</Link>
-                                </li>
-                                <li className="nav-item">
-                                    <Link className="nav-link " to="" >Contact</Link>
-                                </li>
+                    
                             </ul>
                         </div>
                     </div>
